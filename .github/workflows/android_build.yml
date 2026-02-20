@@ -22,3 +22,4 @@ jobs:
         with:
           name: BeatEmUp-APK
           path: bin/*.apk
+
