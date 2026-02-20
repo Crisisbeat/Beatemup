@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Pygame / Assets
+# Descomentar si quieres ignorar sonidos o texturas pesadas al subir
+# sounds/
+# textures/
+
+# Android / Buildozer
+.buildozer/
+bin/
+*.spec
+
+# Large Files
+*.psd
+*.avi
+*.mp4
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
