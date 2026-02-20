@@ -11,10 +11,8 @@ ENV/
 # sounds/
 # textures/
 
-# Android / Buildozer
-.buildozer/
 bin/
-*.spec
+
 
 # Large Files
 *.psd
